@@ -1,0 +1,7 @@
+streamlit
+openai
+SimplerLLM
+lxml
+python-dotenv
+lxml[html_clean]
+requests
